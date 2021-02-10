@@ -1,1 +1,8 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJ4RDIxyKIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Pen Holder
+
+For this pen holder you will also need
+
+* 120 mm lego axels
+* rubber band
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RJ4RDIxyKIc/0.jpg)](https://www.youtube.com/watch?v=RJ4RDIxyKIc)
