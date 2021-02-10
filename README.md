@@ -9,6 +9,7 @@ This repository documents process of transforming old 3D printer to 2D plotter. 
 
 1. Hardware
 2. Firmware
+3. G-code generation
 
 ## Hardware of 2D plotter
 
@@ -37,7 +38,7 @@ Firmware part of this project is based on Jim's Brown modification of Marlin fir
 
 ## 2D plotter in Action !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rGozqXQ0cDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rGozqXQ0cDk/0.jpg)](https://www.youtube.com/watch?v=rGozqXQ0cDk)
 
 ## Source information
 * BLUETOOTH XY PLOTTER -> yt series https://youtu.be/6874VkJRhn4, https://www.thingiverse.com/thing:4685871
